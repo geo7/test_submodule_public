@@ -1,0 +1,3 @@
+[submodule "test_submodule_private"]
+	path = test_submodule_private
+	url = git@github.com:geo7/test_submodule_private.git
